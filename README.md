@@ -32,7 +32,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 2.Clone the forked repository on your machine.
 ```bash
-git clone https://github.com/Your-username/Android-Components-Library.git
+git clone https://github.com/Your-username/To-Do-List-Hacktoberfest.git
 ```
 3.Choose any of the taskes mentioned below and Send us a `Pull Request` discribing the updates you have added.
 
