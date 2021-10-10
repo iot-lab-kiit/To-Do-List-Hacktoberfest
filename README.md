@@ -48,7 +48,7 @@ git clone https://github.com/Your-username/To-Do-List-Hacktoberfest.git
 3.Add Real Time FireBase Database to store all the tasks addded to the list from local database and synchronize it with the local database with all the changes.
 - `Note -`Do not send your google-config.json file in pull request otherwise it won't be accepted
 
-4.Refer to [issues](https://github.com/iot-lab-kiit/To-Do-List-Hacktoberfest/issues) for more tasks.
+4.Refer to [issues](https://github.com/in.iot-lab-kiit/To-Do-List-Hacktoberfest/issues) for more tasks.
 
 5.Any other useful updates that comes to your mind.
 

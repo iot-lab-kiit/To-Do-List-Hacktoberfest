@@ -1,4 +1,4 @@
-package com.example.todolist
+package `in`.iot.lab.todolist
 
 class Todo(
     val title: String,
